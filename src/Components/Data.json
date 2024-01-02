@@ -1,0 +1,184 @@
+[
+    {
+        "id": "rec1JZlfCIBOPdcT2",
+        "title": "Samsung Galaxy S8",
+        "price": "399",
+        "img": "https://www.course-api.com/images/cart/phone-1.png",
+        "amount": 1
+    },
+    {
+        "id": "recB6qcHPxb62YJ75",
+        "title": "google pixel",
+        "price": "499",
+        "img": "https://www.course-api.com/images/cart/phone-2.png",
+        "amount": 1
+    },
+    {
+        "id": "recdRxBsE14Rr2VuJ",
+        "title": "Xiaomi Redmi Note 2",
+        "price": "699",
+        "img": "https://www.course-api.com/images/cart/phone-3.png",
+        "amount": 1
+    },
+    {
+        "id": "recwTo160XST3PIoW",
+        "title": "Samsung Galaxy S7",
+        "price": "599",
+        "img": "https://www.course-api.com/images/cart/phone-4.png",
+        "amount": 1
+    },
+    {
+        "id": "recZkNf2kwmdBcqd0",
+        "title": "accent chair",
+        "price": "25999",
+        "img": "https://www.course-api.com/images/store/product-1.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recEHmzvupvT8ZONH",
+        "title": "albany sectional",
+        "price": "109999",
+        "img": "https://www.course-api.com/images/store/product-2.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "rec5NBwZ5zCD9nfF0",
+        "title": "albany table",
+        "price": "309999",
+        "img": "https://www.course-api.com/images/store/product-3.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recd1jIVIEChmiwhe",
+        "title": "armchair",
+        "price": "12599",
+        "img": "https://www.course-api.com/images/store/product-4.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recotY5Nh00DQFdkm",
+        "title": "dining table",
+        "price": "42999",
+        "img": "https://www.course-api.com/images/store/product-5.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "rec1Ntk7siEEW9ha1",
+        "title": "emperor bed",
+        "price": "23999",
+        "img": "https://www.course-api.com/images/store/product-6.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recNZ0koOqEmilmoz",
+        "title": "entertainment center",
+        "price": "59999",
+        "img": "https://www.course-api.com/images/store/product-7.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recrfxv3EwpvJwvjq",
+        "title": "high-back bench",
+        "price": "39999",
+        "img": "https://www.course-api.com/images/store/product-8.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recoW8ecgjtKx2Sj2",
+        "title": "leather chair",
+        "price": "20099",
+        "img": "https://www.course-api.com/images/store/product-9.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recEOA6qtDag1hRbU",
+        "title": "leather sofa",
+        "price": "99999",
+        "img": "https://www.course-api.com/images/store/product-10.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recoAJYUCuEKxcPSr",
+        "title": "modern bookshelf",
+        "price": "31999",
+        "img": "https://www.course-api.com/images/store/product-11.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recQ0fMd8T0Vk211E",
+        "title": "modern poster",
+        "price": "3099",
+        "img": "https://www.course-api.com/images/store/product-12.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "rec7CjDWKRgNQtrKe",
+        "title": "shelf",
+        "price": "30999",
+        "img": "https://www.course-api.com/images/store/product-13.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recF0KpwlkF7e8kXO",
+        "title": "simple chair",
+        "price": "109999",
+        "img": "https://www.course-api.com/images/store/product-14.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recs5BSVU3qQrOj4E",
+        "title": "sofa set",
+        "price": "129999",
+        "img": "https://www.course-api.com/images/store/product-15.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recroK1VD8qVdMP5H",
+        "title": "suede armchair",
+        "price": "15999",
+        "img": "https://www.course-api.com/images/store/product-16.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "rec7JInsuCEHgmaGe",
+        "title": "utopia sofa",
+        "price": "79999",
+        "img": "https://www.course-api.com/images/store/product-17.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "rec3jeKnhInKHJuz2",
+        "title": "vase table",
+        "price": "120999",
+        "img": "https://www.course-api.com/images/store/product-18.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recv2ohxljlK2FZO7",
+        "title": "wooden bed",
+        "price": "250099",
+        "img": "https://www.course-api.com/images/store/product-19.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recJIjREF3dlFi3sR",
+        "title": "wooden desk",
+        "price": "150999",
+        "img": "https://www.course-api.com/images/store/product-20.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "recm7wC8TBVdU9oEL",
+        "title": "wooden desk",
+        "price": "40099",
+        "img": "https://www.course-api.com/images/store/product-21.jpeg",
+        "amount": 1
+    },
+    {
+        "id": "rectfNsySwAJeWDN2",
+        "title": "wooden table",
+        "price": "234999",
+        "img": "https://www.course-api.com/images/store/product-22.jpeg",
+        "amount": 1
+    }
+]
